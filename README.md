@@ -1,5 +1,5 @@
-<div style="text-align:centre">
-### Hi there 👋
+<div style="text-align:center">
+Hi there 👋
 
 <!--
 **Github-Reneon/Github-Reneon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
