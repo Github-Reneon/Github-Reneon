@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Fun fact. F :0
+Fun fact -> Coding is fun.
