@@ -1,3 +1,4 @@
+<div style="text-align:centre">
 ### Hi there 👋
 
 <!--
@@ -15,4 +16,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Fun fact -> Coding is fun.
+Fun fact -> ✨Coding is fun.✨
+</div>
