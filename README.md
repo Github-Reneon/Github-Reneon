@@ -1,7 +1,26 @@
-<div align="center">
-  <HR>
-  <p>Hi there 👋</p>
-  <img src="https://giffiles.alphacoders.com/133/13344.gif" />
-  <p>✨Have a great day!✨</p>
-  <HR>
-</div>
+<h1 align="center">
+  <i>Welcome!</i>
+</h1>
+
+
+  ```sh
+  ~/Reneon: fetch.sh
+  ```
+
+  <img align="left" src="https://raw.githubusercontent.com/Github-Reneon/Github-Reneon/main/draken.jpg" width="308" />
+
+  ```haskell
+  Github-Reneon@github
+  ------------------------------
+  os       • Arch Linux x86_64
+  shell    • bash
+  de       • xfce4
+
+  learning • haskell, c#
+             bash, linux, writing.
+  
+  hobbies  • gaming, code, ricing,
+  		     watching anime, drink coffee,
+  		     ranting about the government.
+  
+```
