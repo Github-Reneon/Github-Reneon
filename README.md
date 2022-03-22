@@ -4,7 +4,7 @@
 
 
   ```sh
-  ~/Reneon: fetch.sh
+  Github-Reneon@github ~$ fetch
   ```
 
   <img align="left" src="https://raw.githubusercontent.com/Github-Reneon/Github-Reneon/main/draken.jpg" width="308" />
@@ -16,11 +16,11 @@
   shell    • bash
   de       • xfce4
 
-  learning • haskell, c#
-             bash, linux, writing.
+  learning • haskell, c#,
+             bash, linux, writing
   
   hobbies  • gaming, code, ricing,
   		     watching anime, drink coffee,
-  		     ranting about the government.
+  		     ranting about government
   
-```
+  ```
