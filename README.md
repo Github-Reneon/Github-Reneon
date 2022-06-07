@@ -16,7 +16,7 @@
   shell    • bash
   de       • xfce4
 
-  learning • haskell, c#,
+  learning • haskell, c#, golang
              bash, linux, writing
   
   hobbies  • gaming, code, ricing,
