@@ -20,7 +20,7 @@
              bash, linux, writing
   
   hobbies  • gaming, code, ricing,
-  		     watching anime, drink coffee,
-  		     ranting about government
+  watching anime, drink coffee,
+  ranting about government
   
   ```
