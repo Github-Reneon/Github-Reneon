@@ -14,9 +14,9 @@
   ------------------------------
   os       • Arch Linux x86_64
   shell    • bash
-  de       • xfce4
+  de       • kde
 
-  learning • haskell, c#, golang
+  learning • haskell, c#, golang (I do not code often any more)
              bash, linux, writing
   
   hobbies  • gaming, code, ricing,
