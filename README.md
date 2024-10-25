@@ -19,8 +19,8 @@
   learning • haskell, c#, golang (I do not code often any more)
              bash, linux, writing
   
-  hobbies  • gaming, code, ricing,
-             watching anime, drink coffee,
+  hobbies  • ttrpgs, code, ricing,
+             watching anime, drink tea,
              ranting about government
   
   ```
