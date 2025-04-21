@@ -16,8 +16,8 @@
   shell    • bash
   de       • kde
 
-  learning • haskell, c#, golang (I do not code often any more)
-             bash, linux, writing
+  learning • golang, golang, and golang
+             bash, linux, writing, web design/development
   
   hobbies  • ttrpgs, code, ricing,
              watching anime, drinking tea,
